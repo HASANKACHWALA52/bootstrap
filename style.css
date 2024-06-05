@@ -22,24 +22,37 @@
 background-color: rgb(175, 170, 170);
 
 }
-.bold{
+.team{
     border: 2px solid;
     border-radius: 20px;
     border-style: groove;
-    margin: 15px;
+    /* margin: 15px; */
     border-color: yellowgreen;
-    font-size: 18px;
+    /* font-size: 18px; */
+    /* max-width: 100%; */
 }
+
+.test-card{
+    border: 2px solid;
+    border-radius: 20px;
+    border-color: yellowgreen;
+}
+
 .image2{
     height: 500px;
-    width: 650px;
+    width: 100%;
 }
 .image3{
     height: 500px;
-    width: 500px;
-    margin-left: 100px;
+    width: 75%;
+    /* margin-left: 100px; */
 }
 .bbb{
     margin-top: 150px;
     margin-right: 200px;
+}
+.ccc
+{
+    /* margin-right: 150px; */
+    text-align: end;
 }
